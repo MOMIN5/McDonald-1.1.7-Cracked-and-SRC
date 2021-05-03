@@ -10,8 +10,11 @@ and make sure you dont give random people access next time lmao 😉
 good modules, but the client is still in beta so ye
 enjoy
 
-Not: The dev gets beaten by his parents 🙏🙏🙏🙏
+
 
 
 # SRC
 also decided to add the src, this isnt "buildable src", this is just a decomp of the jar, so people can jew code from it lmao
+
+
+# Note: The dev gets beaten by his parents 🙏🙏🙏🙏
